@@ -1,0 +1,4 @@
+File analysis results: 
+Lines: 0
+Words: 0
+Characters: 0
